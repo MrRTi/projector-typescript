@@ -1,0 +1,14 @@
+{
+  "name": "projector-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Artem Musalitin <musalitin.a.a@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/command-line-args": "^5.2.3",
+    "@types/node": "^20.11.19",
+    "command-line-args": "^5.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
